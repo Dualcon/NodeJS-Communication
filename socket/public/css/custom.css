@@ -1,0 +1,33 @@
+body {
+	background: black !important;
+	color: white !important;
+	}
+	
+div {
+	background: darkgray !important;	
+	color: white !important;
+	}
+	
+	nav {
+		background: darkgray !important;
+		border: #E7E7E7 !important;
+	}
+	
+	a {
+	color: white !important;
+	font-size: 200% !important;
+	}
+	
+	button {
+	background: #E7E7E7 !important;
+	color: black !important;	
+	}
+    	
+	#wrapper {
+	width:50%;
+	padding: 40px;
+	overflow: hidden;
+	}
+#left, #right {
+	padding: 20px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "node.js-request",
+  "version": "1.0.0",
+  "description": "Test request module.",
+  "main": "./bin/app.js",
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Wiki Dreams <danielsantosvieiramail@gmail.com> (https://github.com/WikiDreams)",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "curlrequest": "^0.5.7",
+    "mocha": "^3.1.0"
+  }
+}
